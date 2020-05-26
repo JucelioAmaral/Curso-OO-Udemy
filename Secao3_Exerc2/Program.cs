@@ -26,6 +26,7 @@ namespace Secao3_Exerc2
             Console.WriteLine("Preço: " + price);
             Console.WriteLine("Último nome é " + lastName + ", sua idade " + age + " e sua altura é " + height.ToString("F2", CultureInfo.InvariantCulture));
 
+            Console.WriteLine("-------------");
 
         }
     }
